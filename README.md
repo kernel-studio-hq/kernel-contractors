@@ -6,17 +6,17 @@ What did we promise the homeowner? Which permits do we need to check before we s
 
 When the answers live in your head, old texts, and job folders, every question ends up back on your plate.
 
-**Kernel for Contractors is a free GitHub template for building an AI workspace that knows how your business runs.** Give your assistant your job history, checklists, standards, and policies so it can help you find answers and get work done the way your company does it.
+**Kernel for Contractors is a free GitHub template for building an AI workspace that knows how your business runs.** The template is free to copy; running it takes your own paid AI assistant plan and a GitHub account. Give your assistant your job history, standards, policies, and lessons so it can help you find answers and get work done the way your company does it.
 
-- **Before work starts:** Pull up a similar job, draft a scope, and use your permit checklist to see what needs confirming before you start.
+- **Before work starts:** Pull up a similar job, draft a scope, and check what permits and inspections similar jobs needed, so you know what to confirm before you start.
 - **While work is underway:** Find what you promised the customer, draft a change order using your policy, or pull up the sub you used last time.
-- **After the job wraps:** Capture what cost you time or money and turn it into a checklist item for the next crew.
+- **After the job wraps:** Capture what cost you time or money and turn it into a lesson, or a standard the next crew follows.
 
-Start with one live job. Give your assistant the records you already have and ask it a question you’d normally have to answer from memory.
+Start with one live job. Give your assistant the estimates, contracts, and job notes you already have (never tax forms, bank details, or ID copies) and ask it a question you'd normally have to answer from memory.
 
-## What it is
+## Who it's for
 
-A set of plain pages that describe how a small contracting business runs: the company basics, your standards and policies, every job from first call to closeout, your suppliers and subs, and the lessons you learn across jobs. It is written for businesses of two to fifteen people, such as remodelers, tile and stone, carpentry, cabinetry, decks and design-build. You copy it into your own private GitHub repository and fill it in with your AI assistant. After that, your assistant reads it at the start of every session and keeps it current as you work.
+It is written for businesses of two to fifteen people, such as remodelers, tile and stone, carpentry, cabinetry, decks and design-build. You copy it into your own private GitHub repository and fill it in with your AI assistant, which reads it at the start of every session and keeps it current as you work.
 
 ## What it costs to run
 
@@ -31,7 +31,7 @@ Other assistants that read a file called `AGENTS.md` may work too, but the setup
 
 **Set it up yourself.** Follow the [setup guide](SETUP.md). Allow about an hour. It takes some comfort with a terminal window: you'll install a sign-in tool, paste commands one at a time and check what each one prints. If that sounds like a bad afternoon, the second way is for you.
 
-**Have it set up for you.** Most owners would rather not spend an afternoon in a terminal window. Kernel Studio can do the setup with you: getting your computer ready, making your private copy, and filling in the company pages, your policies, one live job and one past job together. We can also keep it current as new versions come out. To ask about it, email support@onekernel.io.
+**Have it set up for you.** Most owners would rather not spend an afternoon in a terminal window. Kernel Studio can do the setup with you: getting your computer ready, making your private copy, and filling in one live job, the company pages, your policies and one past job together. We can also keep it current as new versions come out. To ask about it, email support@onekernel.io.
 
 Either way, your copy must be a **private** repository. It will hold customer names, addresses, contracts and prices.
 

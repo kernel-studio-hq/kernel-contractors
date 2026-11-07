@@ -33,9 +33,9 @@ You can talk to your assistant in your own words. These phrases have a fixed mea
 
 Do these in order. Your assistant asks the questions and writes the answers down. You don't need to open any of these pages yourself.
 
-1. **The company pages.** What the company is, what you do and don't do, who works with you, and where you work. About fifteen minutes.
-2. **The policies.** How you build a price, your payment schedule, how change orders work, and your warranty. Use your own numbers. Where you haven't decided something, leave it blank; your assistant won't fill it in for you.
-3. **One live job.** Pick a job you're running now and tell your assistant where it stands.
+1. **One live job.** Pick a job you're running now and tell your assistant where it stands. Hand it the estimate, contract and notes you have for it, never tax forms, bank details or ID copies. Then ask it something you'd normally answer from memory.
+2. **The company pages.** What the company is, what you do and don't do, who works with you, and where you work. About fifteen minutes.
+3. **The policies.** How you build a price, your payment schedule, how change orders work, and your warranty. Use your own numbers. Where you haven't decided something, leave it blank; your assistant won't fill it in for you.
 4. **One past job, with its closeout.** Pick a finished job you remember well. What did you estimate, what did it really cost, what went wrong, what would you do differently? This is the part that makes the next estimate better.
 
 There are two invented sample jobs in the jobs folder, a finished kitchen remodel and a deck build in progress, so you can see what a filled-in job looks like. Once you have a few real jobs, ask your assistant to delete them.
