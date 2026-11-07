@@ -1,6 +1,6 @@
 A free, open-source business brain for contractors. Organize your company knowledge, workflows, and operating standards into a structured foundation that gives AI the context behind how your business runs.
 
-[OPERATOR: opening line or short pitch for the GitHub page]
+Your estimates, jobs, policies and lessons, written down once so your AI assistant can work from them every day.
 
 ## What it is
 
@@ -19,7 +19,7 @@ Other assistants that read a file called `AGENTS.md` may work too, but the setup
 
 **Set it up yourself.** Follow the [setup guide](SETUP.md). Allow about an hour. It takes some comfort with a terminal window: you'll install a sign-in tool, paste commands one at a time and check what each one prints. If that sounds like a bad afternoon, the second way is for you.
 
-**Have it set up for you.** [OPERATOR: who sets it up, what that includes, and how to get in touch]
+**Have it set up for you.** Most owners would rather not spend an afternoon in a terminal window. Kernel Studio can do the setup with you: getting your computer ready, making your private copy, and filling in the company pages, your policies, one live job and one past job together. We can also keep it current as new versions come out.
 
 Either way, your copy must be a **private** repository. It will hold customer names, addresses, contracts and prices.
 
@@ -49,4 +49,4 @@ Copyright 2026 Kernel Studio. Licensed under [CC BY-SA 4.0](LICENSE).
 
 The business content you put in your own private copy is yours.
 
-Questions: [OPERATOR: where questions go]. This free template comes with no support commitment.
+Questions: open an issue on this repository. Issues are public, so never include customer names, addresses or prices in one. This free template comes with no support commitment.
