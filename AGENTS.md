@@ -70,7 +70,7 @@ The setup guide gives the owner opening lines to paste at the start of every ses
 - look for side copies
 - if unsaved work is already here, say what it is in one sentence and wait, offering the two choices above when it is their own unfinished work
 
-Then tell them in one line that you're ready.
+Then tell them in one line that you're ready. If the company or policy pages are still mostly blank, add one short line offering to carry on with getting started, and say which part is next.
 
 ## What is where
 
@@ -147,7 +147,7 @@ The owner can reshape anything: add a folder, rename a page, drop a section that
 
 **"Undo that."** Undo the last save cleanly, as a new save. Say in one sentence what was undone. Never rewrite earlier history.
 
-**"Help me get started."** First check this session can work: the folder is up to date, the repository is private, and you can save. If not, walk them through the setup guide one step at a time, in plain words, waiting after each step. A step's checks count toward the three-question limit. The steps in their own terminal window or browser are theirs to do. Never ask them to paste a one-time code, a password or a token to you. Once it works, lead the first hour from the start page: the company pages, then the policies, then one live job, then one past job with its closeout. Start with the company basics, three questions at most at a time, and save as you go.
+**"Help me get started."** First check this session can work: the folder is up to date, the repository is private, and you can save. If not, walk them through the setup guide one step at a time, in plain words, waiting after each step. A step's checks count toward the three-question limit. The steps in their own terminal window or browser are theirs to do. Never ask them to paste a one-time code, a password or a token to you. Once it works, lead the first hour from the start page: the company pages, then the policies, then one live job, then one past job with its closeout. Start with the first part that is still mostly blank, so a first hour broken off in an earlier session carries on where it stopped rather than starting over. Say in one line where you're picking up. Three questions at most at a time, and save as you go.
 
 **"New lead."** Start a new job at the Lead stage. Ask for the customer's name, how to reach them, where the job is and what they want done (three questions at most at a time). Check the service area and the services pages and say if the lead falls outside either. Make the job folder as soon as you have a name, fill in what you have, and save. End with the next step.
 
