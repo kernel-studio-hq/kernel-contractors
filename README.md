@@ -22,7 +22,7 @@ Built for contractors and trade businesses that want one place to keep track of 
 
 The template is free. Running it is not. You need:
 
-- **your own paid AI assistant plan.** The setup guide is written for a paid Claude plan, using the Claude desktop app in its Code tab. The free plan cannot work in a folder on your computer.
+- **your own paid AI assistant plan.** The setup guide is written for a paid <a href="https://claude.com/product/overview" target="_blank" rel="noopener">Claude plan</a>, using the Claude desktop app in its Code tab. The free plan cannot work in a folder on your computer.
 - **your own GitHub account.** A basic account is free, and private repositories are included.
 
 Other assistants that read a file called `AGENTS.md` may work too, but the setup guide doesn't cover them.
