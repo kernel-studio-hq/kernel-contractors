@@ -1,6 +1,18 @@
 A free, open-source business brain for contractors. Organize your company knowledge, workflows, and operating standards into a structured foundation that gives AI the context behind how your business runs.
 
-Your estimates, jobs, policies and lessons, written down once so your AI assistant can work from them every day.
+## Stop running your business from memory
+
+What did we promise the homeowner? Which permits do we need to check before we start? Who did we use for the last job like this? How do we handle it when the scope changes?
+
+When the answers live in your head, old texts, and job folders, every question ends up back on your plate.
+
+**Kernel for Contractors is a free GitHub template for building an AI workspace that knows how your business runs.** Give your assistant your job history, checklists, standards, and policies so it can help you find answers and get work done the way your company does it.
+
+- **Before work starts:** Pull up a similar job, draft a scope, and use your permit checklist to see what needs confirming before you start.
+- **While work is underway:** Find what you promised the customer, draft a change order using your policy, or pull up the sub you used last time.
+- **After the job wraps:** Capture what cost you time or money and turn it into a checklist item for the next crew.
+
+Start with one live job. Give your assistant the records you already have and ask it a question you’d normally have to answer from memory.
 
 ## What it is
 
