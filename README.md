@@ -16,7 +16,7 @@ Start with one live job. Give your assistant the estimates, contracts, and job n
 
 ## Who it's for
 
-It is written for businesses of two to fifteen people, such as remodelers, tile and stone, carpentry, cabinetry, decks and design-build. You copy it into your own private GitHub repository and fill it in with your AI assistant, which reads it at the start of every session and keeps it current as you work.
+Built for contractors and trade businesses that want one place to keep track of how they run jobs and how they run the company. Create your own private copy on GitHub and start with whatever you reach for most often: job records, permit checklists, crew standards, or company policies. Your AI assistant uses those records as you work and can help you update them as the business changes.
 
 ## What it costs to run
 
