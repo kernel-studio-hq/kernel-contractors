@@ -165,6 +165,7 @@ If the person can't save to this repository because they were given Read access 
 
 ## Writing pages
 
+- Write the way the owner talks: plain, short sentences. Don't use long dashes as punctuation; use a period or a comma.
 - When you name a page or folder that exists here, write it as a working link, relative to the page you're writing in. Not inside grey boxes, and not for things that don't exist yet. Check that links work before every save.
 - Use tables when a list of the same kind of thing repeats (payments, change orders, papers).
 - Leave blanks showing as `____` rather than deleting a line you can't fill.
