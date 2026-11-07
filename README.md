@@ -19,7 +19,7 @@ Other assistants that read a file called `AGENTS.md` may work too, but the setup
 
 **Set it up yourself.** Follow the [setup guide](SETUP.md). Allow about an hour. It takes some comfort with a terminal window: you'll install a sign-in tool, paste commands one at a time and check what each one prints. If that sounds like a bad afternoon, the second way is for you.
 
-**Have it set up for you.** Most owners would rather not spend an afternoon in a terminal window. Kernel Studio can do the setup with you: getting your computer ready, making your private copy, and filling in the company pages, your policies, one live job and one past job together. We can also keep it current as new versions come out.
+**Have it set up for you.** Most owners would rather not spend an afternoon in a terminal window. Kernel Studio can do the setup with you: getting your computer ready, making your private copy, and filling in the company pages, your policies, one live job and one past job together. We can also keep it current as new versions come out. To ask about it, email support@onekernel.io.
 
 Either way, your copy must be a **private** repository. It will hold customer names, addresses, contracts and prices.
 
